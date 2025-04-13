@@ -1,3 +1,3 @@
-https://SANDEEPS115.github.io/SANDEEP-RESUME
+"https://SANDEEPS115.github.io/SANDEEP-RESUME"
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
