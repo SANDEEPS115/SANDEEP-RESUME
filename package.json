@@ -1,3 +1,3 @@
-https://sandeepnair.github.io/resume-portfolio
+https://SANDEEPS115.github.io/SANDEEP-RESUME
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
