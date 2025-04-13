@@ -39,6 +39,12 @@
     <p>Email: sandeep97deep@gmail.com</p>
     <p>LinkedIn:https://www.linkedin.com/in/sandeep-nair-a64917180</p>
     <p>Location: Trivandrum, Kerala</p>
+    <a
+  href="/Sandeep_Nair_Resume.pdf"
+  download
+  className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">
+  Download PDF
+</a>
   </section>  <!-- Footer -->  <footer class="text-center p-4 mt-6 text-sm text-gray-500">
     © 2025 Sandeep Nair. All rights reserved.
   </footer>
