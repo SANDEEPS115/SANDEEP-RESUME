@@ -10,7 +10,8 @@
     "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
     "@remix-run/dev": "^2.8.0"
-  },
+    "remix-run/node"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
